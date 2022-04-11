@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Yuna Lee. I want to share my ideas and paper reviews.
+My research interest are 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Low-shot Learning
+- Data-Free Learning (DAFL)
+- Generative Adversarial Network (GAN)
+- and so on .... 
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Since git blog isn't for sharing my pictures and hobbies, I advise you to go take a look at [my blog](https://dailyness.tistory.com/). There is nothing but pictures though.
